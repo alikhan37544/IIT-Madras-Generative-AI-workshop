@@ -1,0 +1,12 @@
+﻿Hi there
+This is testing if it works. It looks like it does
+
+
+
+Talking about basics of Neural Networks first
+
+Talked about what is a neural network.
+Talked about what is the difference between the biological one and the computer neural network
+
+
+
